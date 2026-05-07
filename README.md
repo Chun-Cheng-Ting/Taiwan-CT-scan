@@ -1,1 +1,0 @@
-# Taiwan-CT-scan

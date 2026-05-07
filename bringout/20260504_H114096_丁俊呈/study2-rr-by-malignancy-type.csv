@@ -1,0 +1,12 @@
+MALIGNANCY_TYPE,RR
+bone,4.5
+brain_and_cns,8
+breast_and_female,7.75
+chest_and_lung,4.75
+cnt,13
+endocrine,2.555555556
+head_and_neck,2.285714286
+intestinal,11
+lymphoma_and_leukemia,1.970588235
+other_malignant_tumor,9
+urinary_and_fertile,3.333333333
