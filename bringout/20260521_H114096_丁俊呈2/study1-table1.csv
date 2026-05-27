@@ -1,0 +1,34 @@
+Study,Characteristic,Category,Overall,Exposed,Unexposed,SMD,P_value
+Study 1 (Population),Total participants,,"4,194,193","198,167","3,996,026",,
+Study 1 (Population),Person-years of follow-up,,"24,576,434","620,161","23,956,273",,
+Study 1 (Population),Follow-up time (months),Median [IQR],"72.0 [72.0, 72.0]","38.4 [19.7, 55.3]","72.0 [72.0, 72.0]",2.357,<0.001
+Study 1 (Population),Sex,Female,"2,014,317 (48.0%)","79,286 (40.0%)","1,935,031 (48.4%)",0.240,<0.001
+Study 1 (Population),,Male,"2,179,876 (52.0%)","118,881 (60.0%)","2,060,995 (51.6%)",,
+Study 1 (Population),"Age at index (years, AGE_AT_INDEX)",Median [IQR],"10.0 [4.0, 15.0]","14.0 [8.0, 17.0]","10.0 [4.0, 15.0]",0.485,<0.001
+Study 1 (Population),Age at study start (2016-01-01) (years),Median [IQR],"10.0 [4.0, 15.0]","11.0 [5.0, 14.0]","10.0 [4.0, 15.0]",0.017,0.074
+Study 1 (Population),"Age at first CT (years, exposed only)",Median [IQR],"14.0 [8.0, 17.0]","14.0 [8.0, 17.0]",—,—,—
+Study 1 (Population),Age at first CT group (exposed only),0-5,"33,759 (17.0%)","33,759 (17.0%)",0 (0.0%),1.529,<0.001
+Study 1 (Population),,11-15,"55,338 (27.9%)","55,338 (27.9%)",0 (0.0%),,
+Study 1 (Population),,16-18,"76,799 (38.8%)","76,799 (38.8%)",0 (0.0%),,
+Study 1 (Population),,6-10,"32,271 (16.3%)","32,271 (16.3%)",0 (0.0%),,
+Study 1 (Population),"Age at malignancy diagnosis (years, events only)",Median [IQR],"17.0 [11.0, 21.0]","20.0 [16.0, 22.0]","17.0 [10.0, 21.0]",0.507,<0.001
+Study 1 (Population),Age at malignancy diagnosis group (events only),0-5,263 (7.9%),11 (4.3%),252 (8.2%),0.615,<0.001
+Study 1 (Population),,11-15,634 (19.0%),30 (11.9%),604 (19.6%),,
+Study 1 (Population),,16-20,943 (28.2%),90 (35.6%),853 (27.6%),,
+Study 1 (Population),,21+,950 (28.4%),110 (43.5%),840 (27.2%),,
+Study 1 (Population),,6-10,550 (16.5%),12 (4.7%),538 (17.4%),,
+Study 1 (Population),Income quartile,Missing,"561,478 (13.4%)","30,132 (15.2%)","531,346 (13.3%)",0.163,<0.001
+Study 1 (Population),,Q1,"1,620,285 (38.6%)","79,877 (40.3%)","1,540,408 (38.5%)",,
+Study 1 (Population),,Q2,"138,780 (3.3%)","10,624 (5.4%)","128,156 (3.2%)",,
+Study 1 (Population),,Q3,"928,642 (22.1%)","39,983 (20.2%)","888,659 (22.2%)",,
+Study 1 (Population),,Q4,"945,008 (22.5%)","37,551 (18.9%)","907,457 (22.7%)",,
+Study 1 (Population),Urban status,Metro,"1,138,214 (27.1%)","52,219 (26.4%)","1,085,995 (27.2%)",0.076,<0.001
+Study 1 (Population),,Missing,"562,350 (13.4%)","30,995 (15.6%)","531,355 (13.3%)",,
+Study 1 (Population),,Non-Metro,"2,493,629 (59.5%)","114,953 (58.0%)","2,378,676 (59.5%)",,
+Study 1 (Population),CT setting at first scan (exposed only),Clinic,"54,046 (27.3%)","54,046 (27.3%)",0 (0.0%),,
+Study 1 (Population),,ER,"144,121 (72.7%)","144,121 (72.7%)",0 (0.0%),,
+Study 1 (Population),First CT type (exposed only),body_type,"198,167 (100.0%)","198,167 (100.0%)",0 (0.0%),,
+Study 1 (Population),Number of CT scans (exposed only),>=4,"4,842 (2.4%)","4,842 (2.4%)",0 (0.0%),,
+Study 1 (Population),,1,"156,338 (78.9%)","156,338 (78.9%)",0 (0.0%),,
+Study 1 (Population),,2-3,"36,987 (18.7%)","36,987 (18.7%)",0 (0.0%),,
+Study 1 (Population),Malignancy events,,"3,340 (0.08%)",253 (0.13%),"3,087 (0.08%)",,
