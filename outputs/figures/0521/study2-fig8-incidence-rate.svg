@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='396.00pt' height='288.00pt' viewBox='0 0 396.00 288.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzOTYuMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='396.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzOTYuMDB8MC4wMHwyODguMDA=)'>
+<rect x='0.000000000000032' y='0.00' width='396.00' height='288.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMzMuMTN8MzkwLjUyfDIzLjE4fDI2OS40NA=='>
+    <rect x='33.13' y='23.18' width='357.39' height='246.26' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzMuMTN8MzkwLjUyfDIzLjE4fDI2OS40NA==)'>
+<polyline points='33.13,258.24 390.52,258.24 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='33.13,205.64 390.52,205.64 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='33.13,153.03 390.52,153.03 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='33.13,100.42 390.52,100.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='33.13,47.81 390.52,47.81 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='130.60,269.44 130.60,23.18 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='293.05,269.44 293.05,23.18 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='252.44' y='181.79' width='81.23' height='76.45' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #DD9999;' />
+<rect x='89.99' y='60.18' width='81.23' height='198.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #A02C2C;' />
+<polyline points='280.87,161.81 305.23,161.81 ' style='stroke-width: 1.07; stroke: #4D4D4D; stroke-linecap: butt;' />
+<polyline points='293.05,161.81 293.05,198.53 ' style='stroke-width: 1.07; stroke: #4D4D4D; stroke-linecap: butt;' />
+<polyline points='280.87,198.53 305.23,198.53 ' style='stroke-width: 1.07; stroke: #4D4D4D; stroke-linecap: butt;' />
+<polyline points='118.41,34.37 142.78,34.37 ' style='stroke-width: 1.07; stroke: #4D4D4D; stroke-linecap: butt;' />
+<polyline points='130.60,34.37 130.60,83.70 ' style='stroke-width: 1.07; stroke: #4D4D4D; stroke-linecap: butt;' />
+<polyline points='118.41,83.70 142.78,83.70 ' style='stroke-width: 1.07; stroke: #4D4D4D; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHwzOTYuMDB8MC4wMHwyODguMDA=)'>
+<text x='28.20' y='261.39' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='28.20' y='208.79' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='28.20' y='156.18' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='28.20' y='103.57' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='28.20' y='50.96' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='130.60' y='280.67' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='47.44px' lengthAdjust='spacingAndGlyphs'>CT-exposed</text>
+<text x='293.05' y='280.67' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='71.89px' lengthAdjust='spacingAndGlyphs'>Unexposed sibling</text>
+<text transform='translate(13.36,146.31) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='198.28px' lengthAdjust='spacingAndGlyphs'>Incidence rate per 100,000 person-years</text>
+<text x='33.13' y='14.93' style='font-size: 13.20px; font-family: "Arial";' textLength='314.06px' lengthAdjust='spacingAndGlyphs'>Study 2 — Malignancy incidence rate by CT exposure</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+VARIABLE,CATEGORY,EXPOSED_TRUE,EXPOSED_FALSE,TOTAL,STAT_TYPE
+N,,198167,3996026,4194193,n
+SEX,Female," 79,286 (40.0%)","1,935,031 (48.4%)","2,014,317 (48.0%)",n_pct
+SEX,Male,"118,881 (60.0%)","2,060,995 (51.6%)","2,179,876 (52.0%)",n_pct
+AGE_AT_INDEX (years),median (IQR),14.0 (8.0-17.0),10.0 (4.0-15.0),10.0 (4.0-15.0),median_iqr
+AGE_AT_2016 (years),median (IQR),11.0 (5.0-14.0),10.0 (4.0-15.0),10.0 (4.0-15.0),median_iqr
+"Age at first CT (years, exposed only)",median (IQR),14.0 (8.0-17.0),NA,14.0 (8.0-17.0),median_iqr
+FIRST_CT_AGE_GROUP,0-5,"33,759 (17.0%)",        0 (0.0%),"   33,759 (0.8%)",n_pct
+FIRST_CT_AGE_GROUP,11-15,"55,338 (27.9%)",        0 (0.0%),"   55,338 (1.3%)",n_pct
+FIRST_CT_AGE_GROUP,16-18,"76,799 (38.8%)",        0 (0.0%),"   76,799 (1.8%)",n_pct
+FIRST_CT_AGE_GROUP,6-10,"32,271 (16.3%)",        0 (0.0%),"   32,271 (0.8%)",n_pct
+FIRST_CT_AGE_GROUP,Missing,     0 (0.0%),"3,996,026 (100.0%)","3,996,026 (95.3%)",n_pct
+"Age at malignancy diagnosis (years, events only)",median (IQR),20.0 (16.0-22.0),17.0 (10.0-21.0),17.0 (11.0-21.0),median_iqr
+AGE_AT_DIAGNOSIS_GROUP,0-5,     11 (0.0%),      252 (0.0%),      263 (0.0%),n_pct
+AGE_AT_DIAGNOSIS_GROUP,11-15,     30 (0.0%),      604 (0.0%),      634 (0.0%),n_pct
+AGE_AT_DIAGNOSIS_GROUP,16-20,     90 (0.0%),      853 (0.0%),      943 (0.0%),n_pct
+AGE_AT_DIAGNOSIS_GROUP,21+,    110 (0.1%),      840 (0.0%),      950 (0.0%),n_pct
+AGE_AT_DIAGNOSIS_GROUP,6-10,     12 (0.0%),      538 (0.0%),      550 (0.0%),n_pct
+AGE_AT_DIAGNOSIS_GROUP,Missing,"197,914 (99.9%)","3,992,939 (99.9%)","4,190,853 (99.9%)",n_pct
+INCOME_Q,Missing,"30,132 (15.2%)","  531,346 (13.3%)","  561,478 (13.4%)",n_pct
+INCOME_Q,Q1,"79,877 (40.3%)","1,540,408 (38.5%)","1,620,285 (38.6%)",n_pct
+INCOME_Q,Q2,"10,624 (5.4%)","  128,156 (3.2%)","  138,780 (3.3%)",n_pct
+INCOME_Q,Q3,"39,983 (20.2%)","  888,659 (22.2%)","  928,642 (22.1%)",n_pct
+INCOME_Q,Q4,"37,551 (18.9%)","  907,457 (22.7%)","  945,008 (22.5%)",n_pct
+URBAN_STATUS,Metro," 52,219 (26.4%)","1,085,995 (27.2%)","1,138,214 (27.1%)",n_pct
+URBAN_STATUS,Missing," 30,995 (15.6%)","  531,355 (13.3%)","  562,350 (13.4%)",n_pct
+URBAN_STATUS,Non-Metro,"114,953 (58.0%)","2,378,676 (59.5%)","2,493,629 (59.5%)",n_pct
+FIRST_CT_SETTING,Clinic," 54,046 (27.3%)",        0 (0.0%),"   54,046 (1.3%)",n_pct
+FIRST_CT_SETTING,ER,"144,121 (72.7%)",        0 (0.0%),"  144,121 (3.4%)",n_pct
+FIRST_CT_SETTING,Missing,      0 (0.0%),"3,996,026 (100.0%)","3,996,026 (95.3%)",n_pct
+FIRST_CT_TYPE,Missing,      0 (0.0%),"3,996,026 (100.0%)","3,996,026 (95.3%)",n_pct
+FIRST_CT_TYPE,body_type,"198,167 (100.0%)",        0 (0.0%),"  198,167 (4.7%)",n_pct
+N_CT_GROUP,1,"156,338 (78.9%)",        0 (0.0%),"  156,338 (3.7%)",n_pct
+N_CT_GROUP,2-3," 36,987 (18.7%)",        0 (0.0%),"   36,987 (0.9%)",n_pct
+N_CT_GROUP,>=4,"  4,842 (2.4%)",        0 (0.0%),"    4,842 (0.1%)",n_pct
+N_CT_GROUP,Missing,      0 (0.0%),"3,996,026 (100.0%)","3,996,026 (95.3%)",n_pct
+Malignancy events,,253 (0.13%),"3,087 (0.08%)","3,340 (0.08%)",n_pct
+Person-years,,"620,161","23,956,273","24,576,434",n

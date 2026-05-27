@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='648.00pt' height='288.00pt' viewBox='0 0 648.00 288.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2NDguMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='648.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHwyODguMDA=)'>
+<rect x='0.00' y='0.00' width='648.00' height='288.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMTIzLjU4fDY0Mi41MnwzNi45OXwyNTYuNTA='>
+    <rect x='123.58' y='36.99' width='518.94' height='219.52' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTIzLjU4fDY0Mi41MnwzNi45OXwyNTYuNTA=)'>
+<polyline points='123.58,231.17 642.52,231.17 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='123.58,188.96 642.52,188.96 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='123.58,146.75 642.52,146.75 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='123.58,104.53 642.52,104.53 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='123.58,62.32 642.52,62.32 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='208.71,256.50 208.71,36.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='312.51,256.50 312.51,36.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='449.71,256.50 449.71,36.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<line x1='208.71' y1='256.50' x2='208.71' y2='36.99' style='stroke-width: 1.07; stroke: #7F7F7F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='196.16' y1='231.17' x2='319.75' y2='231.17' style='stroke-width: 1.07; stroke: #A02C2C; stroke-linecap: butt;' />
+<line x1='147.17' y1='188.96' x2='413.17' y2='188.96' style='stroke-width: 1.07; stroke: #A02C2C; stroke-linecap: butt;' />
+<line x1='181.48' y1='146.75' x2='412.27' y2='146.75' style='stroke-width: 1.07; stroke: #A02C2C; stroke-linecap: butt;' />
+<line x1='228.24' y1='104.53' x2='551.16' y2='104.53' style='stroke-width: 1.07; stroke: #A02C2C; stroke-linecap: butt;' />
+<line x1='307.08' y1='62.32' x2='618.93' y2='62.32' style='stroke-width: 1.07; stroke: #A02C2C; stroke-linecap: butt;' />
+<circle cx='257.95' cy='231.17' r='2.84' style='stroke-width: 1.42; stroke: #A02C2C; fill: #A02C2C;' />
+<circle cx='280.17' cy='188.96' r='2.84' style='stroke-width: 1.42; stroke: #A02C2C; fill: #A02C2C;' />
+<circle cx='296.88' cy='146.75' r='2.84' style='stroke-width: 1.42; stroke: #A02C2C; fill: #A02C2C;' />
+<circle cx='389.70' cy='104.53' r='2.84' style='stroke-width: 1.42; stroke: #A02C2C; fill: #A02C2C;' />
+<circle cx='463.01' cy='62.32' r='2.84' style='stroke-width: 1.42; stroke: #A02C2C; fill: #A02C2C;' />
+<text x='323.13' y='233.82' style='font-size: 7.40px;fill: #666666; font-family: "Arial";' textLength='22.58px' lengthAdjust='spacingAndGlyphs'>67 / 34</text>
+<text x='415.94' y='191.61' style='font-size: 7.40px;fill: #666666; font-family: "Arial";' textLength='18.47px' lengthAdjust='spacingAndGlyphs'>16 / 7</text>
+<text x='415.04' y='149.39' style='font-size: 7.40px;fill: #666666; font-family: "Arial";' textLength='18.47px' lengthAdjust='spacingAndGlyphs'>23 / 9</text>
+<text x='553.93' y='107.18' style='font-size: 7.40px;fill: #666666; font-family: "Arial";' textLength='18.47px' lengthAdjust='spacingAndGlyphs'>19 / 4</text>
+<text x='621.70' y='64.96' style='font-size: 7.40px;fill: #666666; font-family: "Arial";' textLength='18.47px' lengthAdjust='spacingAndGlyphs'>31 / 4</text>
+</g>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHwyODguMDA=)'>
+<text x='118.65' y='234.32' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='100.23px' lengthAdjust='spacingAndGlyphs'>lymphoma_and_leukemia</text>
+<text x='118.65' y='192.11' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='62.61px' lengthAdjust='spacingAndGlyphs'>head_and_neck</text>
+<text x='118.65' y='149.90' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='38.62px' lengthAdjust='spacingAndGlyphs'>endocrine</text>
+<text x='118.65' y='107.68' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='62.11px' lengthAdjust='spacingAndGlyphs'>chest_and_lung</text>
+<text x='118.65' y='65.47' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='75.28px' lengthAdjust='spacingAndGlyphs'>breast_and_female</text>
+<text x='208.71' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='312.51' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='449.71' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='383.05' y='280.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='99.66px' lengthAdjust='spacingAndGlyphs'>Risk ratio (log scale)</text>
+<text transform='translate(13.36,146.75) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='79.53px' lengthAdjust='spacingAndGlyphs'>Malignancy type</text>
+<text x='123.58' y='29.62' style='font-size: 9.00px;fill: #4D4D4D; font-family: "Arial";' textLength='281.09px' lengthAdjust='spacingAndGlyphs'>Sibling-matched cohort | types with exposed N&lt;3 omitted (HWDC rule)</text>
+<text x='123.58' y='14.93' style='font-size: 13.20px; font-family: "Arial";' textLength='285.69px' lengthAdjust='spacingAndGlyphs'>Study 2 — Crude risk ratio of malignancy by type</text>
+</g>
+</g>
+</svg>
